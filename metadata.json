@@ -1,0 +1,6 @@
+{
+  "name": "MyanmarSub Studio — AI Video & Audio to Myanmar SRT Generator",
+  "description": "Unlimited-size video and audio to accurate timestamped Myanmar (Burmese) SRT subtitle studio with automatic 16kHz audio chunking, timeline editor, and Unicode text sanitizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
